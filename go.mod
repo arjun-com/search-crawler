@@ -1,4 +1,4 @@
-module example.com/web_crawler
+module github.com/arjun-com/search-crawler
 
 go 1.24.1
 
